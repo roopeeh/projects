@@ -15,7 +15,7 @@ class Point:
             return True
         else:
             return False
-
+# added new line
 
 class Rectangle:
 
