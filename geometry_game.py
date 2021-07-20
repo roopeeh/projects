@@ -47,6 +47,7 @@ class Guirectange(Rectangle):
 rectangle = Rectangle(Point(randint(0, 9), randint(0, 9)),
                       Point(randint(10, 19), randint(10, 19)))
 
+#dsdsds
 # Print rectangle coordinates
 print("Rectangle Coordinates: ",
       rectangle.point1.x, ",",
